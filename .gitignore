@@ -1,0 +1,46 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Compiled libraries
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Generated program data
+students.dat
+students.txt
+students.csv
+student_data/
+data/
+output/
+
+# Debugging files
+*.dSYM/
+*.stackdump
+core
+core.*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
