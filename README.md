@@ -1,3 +1,4 @@
+# Banking-Management-System
 # BankCore
 
 BankCore is an educational, console-based banking simulation written in C. It is designed to practise structured programming, structures, arrays, safe string input, validation, file handling, searching, sorting, and defensive error handling. It is **not** a real banking system.
